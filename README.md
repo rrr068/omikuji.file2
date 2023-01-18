@@ -1,1 +1,3 @@
 omikuji
+hoge
+hoge
